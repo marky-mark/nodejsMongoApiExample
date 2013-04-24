@@ -1,5 +1,4 @@
 var express = require('express'),
-    resource = require('express-resource'),
     app = module.exports = express();
 
 require('./db/db-connection.js');
