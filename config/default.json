@@ -1,0 +1,8 @@
+{
+    "mongoDB": {
+        "host": "localhost",
+        "port": "",
+        "database": "testdb",
+        "debug": false
+    }
+}
